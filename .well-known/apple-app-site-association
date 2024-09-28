@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "6JM9S43F86.com.upaxer.zeusAPP",
+                "appID": "6JM9S43F86.com.upax.zeus",
                 "paths": [ "/ruta-enlace/*", "/" ]
             }
         ]
