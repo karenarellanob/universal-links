@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "6JM9S43F86.com.upax.zeus",
-                "paths": [ "/ruta-enlace/*", "/" ]
+                "paths": [ "/universal-links/*", "/" ]
             }
         ]
     }
