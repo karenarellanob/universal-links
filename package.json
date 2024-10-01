@@ -1,0 +1,11 @@
+{
+  "name": "UniversalLinkSDK",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/karenarellanob/universal-links.git",
+  "author": "Karen Arellano <karen.arellanob@elektra.com.mx>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
